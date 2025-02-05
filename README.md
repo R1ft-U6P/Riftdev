@@ -11,7 +11,7 @@ Im learning
 My Skils 
 
 
-[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=ps,ae,pr,theme=light)](https://skillicons.dev)
 
 
 

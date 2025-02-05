@@ -1,6 +1,6 @@
 Hi Im Rift a guy from the US thats really all I know after effetcs and photoshop and and learning c# and Javascript and maybe ts
 
-
+ 
 
 Im learning
 

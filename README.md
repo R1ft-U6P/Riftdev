@@ -5,7 +5,7 @@ Hi Im Rift a guy from the US thats really all I know after effetcs and photoshop
 Im learning
 
 
-[![My Skills](https://skillicons.dev/icons?i=Js,cs,ts,figma&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=Java,cs,ts,figma&theme=light)](https://skillicons.dev)
 
 
 My Skils 
